@@ -1,2 +1,1 @@
-# test_python
-python test
+# Python test codes
